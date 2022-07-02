@@ -1,5 +1,5 @@
 <h1 align="center">Firmware Marlin 2.1 para Hellbot Magna 1 V2</h1>
-<h3 align="center" color:#ff0000>Version de prueba inicial , faltan configuraciones finales <br/> Para plava GT2560 V4.0</h3>
+<h3 align="center" color:#ff0000>Version de prueba inicial , faltan configuraciones finales <br/> Para placa GT2560 V4.0</h3>
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
